@@ -1,0 +1,1 @@
+<a href="index.php">Home</a> | <a href="registration.php">Register Here</a>
